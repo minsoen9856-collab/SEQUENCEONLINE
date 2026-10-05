@@ -1,0 +1,14 @@
+{
+  "name": "시퀀스 — 은반 위의 전쟁",
+  "short_name": "시퀀스",
+  "description": "피겨스케이팅 전략 시뮬레이션 게임",
+  "start_url": "./skate-473.html",
+  "scope": "./",
+  "display": "standalone",
+  "orientation": "landscape",
+  "background_color": "#0a0c22",
+  "theme_color": "#0a0c22",
+  "icons": [
+    {"src":"icon.svg","sizes":"any","type":"image/svg+xml","purpose":"any maskable"}
+  ]
+}
